@@ -1,0 +1,7 @@
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/rebuild_cache.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/TETHYS_1D.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/test.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/TETHYS_ELEC_2D.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/TETHYS_2D.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/edit_cache.dir
+/Users/rafaelvalente/Desktop/TETHYS_1D_2D_tries/build/CMakeFiles/tethys_library.dir
